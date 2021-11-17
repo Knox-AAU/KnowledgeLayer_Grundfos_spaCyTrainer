@@ -1,0 +1,476 @@
+CONTENTS.
+
+1.1 2.
+Preinstallation 2.1 Well preparation 2.2 Make sure you have the right pump 2.3 2.4 2.5 Motor preparation 2.6 Refilling of motor liquid Installation positions 3.
+Positional requirements 3.1 4.
+Electrical connection 4.1 General 4.2 Motor protection 4.3 Connection of motor 5.
+
+
+
+
+9.1 10.
+Generator operation 11.
+11.1 Motor cooling and other considerations 11.2 Impurities in the water 11.3 Minimum flow rate 11.4 Built-in functions 11.5 Resetting SQ/SQE 11.6 MS 3 motors 11.7 MSE 3 motors 11.8 Maintenance and service 12.
+Assembly of pump and motor 13.
+13.1 Instruments not allowed 14.
+Checking of motor and cable 15.
+
+
+Disposal Starting SQ/SQE for the first time Troubleshooting Environment Technical data WARNING: Prior to installation, read these installation and operating instructions.
+Installation and operation must comply with local regulations and accepted codes of good practice.
+
+General description.
+The SQ/SQE is a 3 inch diameter deep well submersible pump mainly designed for the pumping of raw water in domestic water supply.
+This manual is designed to assist in the proper setup, installation and operation of these pumps.
+4 General description Applications Pumped liquid requirements Liquid temperatures/cooling Cable sizing Splicing the cable Fitting the cable guard Piping Installing SQ/SQE Installation depth Page 4 4 4 4 4 4 4 5 5 5 5 6 6 6 6 7 7 7 7 8 8 8 8 8 9 9 9 9 9 9 9 9 10 11 11 11 12 12 1.1 Applications.
+Typical applications: • residential housing • small waterworks • pressure boosting • • WARNING: SQ/SQE has not been investigated for use in swimming pool or marine areas.
+liquid transfer in tanks irrigation systems.
+2.1 Well preparation.
+If SQ/SQE is to be installed in a new well, the well should be fully developed and bailed or blown free of cuttings and sand.
+The construction of the Grundfos SQ/SQE submersibles makes them resistant to abrasion; however, no pump made of any material can forever withstand the destructive wear that occurs when constantly pumping sandy water.
+If SQ/SQE is used to replace an oil-filled submersible or oil-lubricated line-shaft turbine in an existing well, the well must be blown or bailed clear of oil.
+2.2 Make sure you have the right pump.
+Determine the maximum depth of the well and the drawdown level at the maximum pump capacity.
+Pump selection and setting depth should be made based on this data.
+2.3 Pumped liquid requirements.
+Submersible well pumps are designed for pumping clear, cold water; free of air or gases.
+Decreased pump performance and life expectancy can occur if the water is not clear, cold or contains air or gases.
+A check should be made to ensure that the installation depth of SQ/SQE will always be at least three feet below the maximum drawdown level of the well.
+The bottom of the motor should never be installed lower than the top of the well screen or within five feet of the well bottom.
+CAUTION: SQ/SQE has been approved for pumping maximum 86°F water only.
+2.4 Liquid temperatures/cooling.
+Figure 1 shows an SQ/SQE pump installed in a well.
+With SQ/SQE operating, figure 1 illustrates the following: • Well diameter • Pump diameter • Temperature of pumped liquid • Flow past the motor to SQ/SQE suction strainer.
+Note: The well diameter must be at least 3 inches.
+If there is a risk that the motor will be covered with sediment, it is recommended SQ/SQE be placed in a flow sleeve.
+The motor should always be installed above the well screen.
+Injecting motor liquid 3.1 Positional requirements.
+SQ/SQE is suitable for vertical as well as horizontal installation, however, SQ/SQE shaft must never fall below the horizontal plane, see fig.
+
+If SQ/SQE is to be installed horizontally, e.g.
+in a tank, and there is a risk that SQ/SQE might be covered by mud, it must be installed in a flow sleeve.
+
+
+7 9 3 4.
+5 7 3 1.
+1 0 Fig.
+3 Pump position.
+Allowed Not allowed 4 0 5 3.
+6 0 6 9.
+2 0 2.5 Motor preparation.
+Grundfos MS 3 and MSE 3 submersible motors have water-lubricated slide bearings.
+No additional lubrication is required.
+The submersible motors are factory-filled with a special Grundfos motor liquid, type SML 2 or SML 3, which will protect the motor liquid down to 4°F (–20°C) and prevent the growth of bacteria.
+The level of motor liquid is important for the operating life of the bearings and consequently the life of the motor.
+2.6 Refilling of motor liquid.
+If for any reason the motor liquid has been drained or lost, the motor must be refilled with Grundfos motor liquid SML 2 or SML 3.
+To refill the motor, proceed as follows: 1.
+Remove the cable guard and separate SQ/SQE end from the motor.
+
+Place the motor in vertical position with an inclination of approximately 10°.
+
+Remove the filling plug using a screwdriver or a 4.
+similar tool.
+Inject motor liquid into the motor with a filling syringe or similar tool, see fig.
+
+
+To allow possible air to escape, move the motor from side to side and turn the shaft.
+
+Replace the filling plug and make sure it is tight.
+
+Assemble pump end and motor.
+
+Fit the cable guard.
+SQ/SQE is now ready for installation.
+
+Liquid temperature, max.
+86°F Well diameter Pump diameter 7 9 2 1.
+8 1 5 0.
+1 0 10.
+5 4.1 General.
+The electrical connection should be carried out by an authorized electrician in accordance with local regulations.
+WARNING:.
+Before starting work on the pump, make sure that the electricity supply has been switched off and that it cannot be accidentally switched on.
+SQ/SQE is permanent wiring connection only.
+Reduced risk of electric shock during operation of SQ/SQE requires the provision of acceptable grounding.
+The grounding connection must be made by a copper conductor, at least the size of the circuit conductors supplying SQ/SQE.
+SQ/SQE must be connected to an external mains switch.
+SQ/SQE must never be connected to a capacitor or to another type of control box than CU 300 or CU 301.
+SQ/SQE must never be connected to an external frequency converter.
+The supply voltage, rated maximum current and power factor (PF) appear on the motor nameplate.
+The required voltage for Grundfos submersible MS 3 and MSE 3 motors, measured at the motor terminals, is –10%/+6% of the nominal voltage during continuous operation (including variation in the supply voltage and losses in cables).
+If SQ/SQE is connected to an installation where a Ground Fault circuit breaker (GFI) is used as additional protection, this circuit breaker must trip out when ground fault currents with DC content (pulsating DC) occur.
+Supply voltage.
+1 x 100-115 V or 1 x 200-240 V, 50/60 Hz.
+The current consumption can only be measured accurately by means of a true RMS instrument.
+If other instruments are used, the value measured will differ from the actual value.
+The SQE pumps can be connected to a CU 300 or CU 301 control box.
+4.2 Motor protection.
+The motor has built-in automatic thermal overload protection and requires no additional motor protection.
+4.3 Connection of motor.
+The motor can be connected directly to the main circuit breaker.
+Start/stop of SQ/SQE will typically be done via a pressure switch, see figs.
+4 and 5.
+Note: The pressure switch must be rated for the.
+maximum amps of the specific pump.
+6 Fig.
+5 Wiring diagram for single-phase Grundfos.
+motors (100-115 V) Fig.
+4 Wiring diagram for 2-wire Grundfos.
+motors (200-240 V) Quick disconnection WARNING:.
+Reduced risk of electric shock during operation of SQ/SQE requires the provision of acceptable grounding.
+If the means of connection to the supply connected box is other than grounded metal conduit, ground SQ/SQE back to the service by connecting a copper conductor, at least the size of the circuit conductors supplying SQ/SQE.
+Quick disconnection L1 L2 G Pump and motor L N G Pump and motor Pressure switch Black Black Green Pressure switch Black White or grey Green 5.
+Cable sizing.
+Single-phase 60 Hz maximum cable length motor service to entrance: Motor rating Maximum lengths of copper wire in feet (9% voltage drop) Volts.
+115 230 230 230 230 hp.
+0.5 0.5 0.75 1.0 1.5 amps 14 AWG 12 AWG 10 AWG 8 AWG 6 AWG.
+12 5.2 8.4 11.2 12 140 640 400 300 280 220 1000 620 460 430 360 1660 1030 770 720 550 2250 1580 1190 1110 880 4060 2510 1890 1760 2 AWG.
+2260 – – 4 AWG.
+1390 – 3970 2980 2780 4850 4530 Note: The values apply to 230 V, 60 Hz, and conform to the requirements stated in the National Electrical.
+Code Book.
+
+Splicing the cable.
+Splice the drop cable with the motor cable.
+The splice must be made carefully.
+It is recommended to use a third-party-approved watertight junction box or splice connection.
+
+Fitting the cable guard.
+To fit the cable guard, proceed as follows: 1.
+Make sure that the motor lead lies flat in the cable guard.
+
+Place the cable guard in the groove in the cable plug.
+The two flaps must engage with the upper edge of SQ/SQE sleeve, see fig.
+
+
+7 Fitting the cable guard to SQ/SQE.
+suction strainer 8.
+Piping.
+• SQ/SQE should only be gripped by the two flats at the top of the pump, see fig.
+
+• SQ/SQE can be installed vertically or horizontally.
+During operation, SQ/SQE must always be completely submerged in water.
+• When plastic pipe is used, a stainless-steel safety wire is recommended for lowering and lifting SQ/SQE.
+Fasten the wire to the eyelet on the pump, see fig.
+
+• The threaded joints must be well cut and fit together tightly to ensure that they do not work loose.
+
+6 Placing the cable guard.
+
+Fasten the cable guard to SQ/SQE suction strainer with the two self-tapping screws supplied, see fig.
+
+
+7 9.1 Installation depth.
+The dynamic water level should always be above the pump, see fig.
+
+A = Dynamic water level B = Static water level C = Minimum 3 inch well diameter D = Drawdown E = Installation depth below static water level.
+Maximum 500 feet.
+Installation depth Procedure.
+To install the pump, proceed as follows: 1.
+Attach the enclosed data plate sticker at the well head.
+
+Check the well for proper clearance.
+The well must be at least 3 inches in diameter.
+It is a good idea to check the well for clearance using a plumb ring (2.95 ø x 10 in.).
+
+Attach the first section of riser pipe to SQ/SQE.
+
+Lower SQ/SQE into the well.
+Make sure the motor cable is not damaged when SQ/SQE is lifted or lowered into the well, especially in 3 inch wells.
+Note: Do not lower or lift SQ/SQE using the.
+motor cable.
+
+When SQ/SQE has been installed to the required depth, the installation should be finished by means of a well seal.
+Note that the dynamic water level should always be above SQ/SQE.
+
+Loosen the safety wire so that it becomes unloaded and lock it to the well seal using a cable clamp.
+
+Complete the electrical connections.
+Note: SQ/SQE must never be connected to a.
+capacitor or to another type of control box than CU 300 or CU 301.
+Installation depths.
+Maximum installation depth: 500 feet below the static water level.
+Minimum installation depth: 1.75 feet below the dynamic water level.
+Vertical installation.
+During start-up and operation, SQ/SQE must always be completely submerged in water.
+Horizontal installation.
+SQ/SQE must be installed at least 1.75 feet below the dynamic water level.
+If there is a risk that SQ/SQE might be covered by mud, SQ/SQE must always be placed in a flow sleeve.
+Note: Do not lower or lift SQ/SQE using the motor.
+cable.
+
+Generator operation.
+It is safe to operate the SQ/SQE with a generator.
+The generator must be sized 50% above the P1.
+(input power) values of SQ/SQE.
+See the following table.
+Motor [hp].
+0.5 0.75 1.0 1.5 generator size Min.
+
+1200 1900 2600 2800 Recommended generator output [W].
+1500 2500 3200 3500 11.
+Starting SQ/SQE for the first time.
+When SQ/SQE has been connected correctly, SQ/SQE should be started with the discharge valve closed approximately one third.
+Due to the soft start feature, SQ/SQE takes approximately 2 seconds to develop full pressure.
+11.1 Motor cooling and other considerations.
+• Make sure the well is capable of yielding a minimum quantity of water corresponding to SQ/SQE capacity.
+• Do not start SQ/SQE until it is completely submerged in the liquid.
+• As the valve is being opened, the drawdown should be checked to ensure that SQ/SQE always remains submerged.
+
+• To ensure the necessary cooling of the motor, SQ/SQE should never be set so low that it gives no water.
+If the flow rate suddenly falls, the reason might be that SQ/SQE is pumping more water than the well can yield.
+SQ/SQE must immediately be stopped and the fault corrected.
+11.2 Impurities in the water.
+If there are impurities in the water, the valve should be opened gradually as the water becomes clearer.
+SQ/SQE should not be stopped until the water is clean, otherwise SQ/SQE parts and the check valve may become clogged.
+When the water is clean, the valve should be fully opened.
+11.3 Minimum flow rate.
+To ensure the necessary cooling of the motor, SQ/SQE flow rate should never be set to a value lower than 0.2 gpm.
+If the flow rate suddenly falls, the reason might be that SQ/SQE is pumping more water than the well can yield.
+SQ/SQE must immediately be stopped and the fault corrected.
+WARNING: The pump's dry-running protection is.
+effective only within the recommended duty range of SQ/SQE.
+Note: Do not let SQ/SQE run against a closed dis.
+charge valve for more than 5 minutes.
+When the discharge valve is closed, there is no cooling flow and there is a risk of overheating in motor and pump.
+11.4 Built-in functions.
+The motor incorporates an electronic unit which functions as follows: • In case of overload, the built-in overload protection will stop SQ/SQE for 5 minutes.
+After that period, SQ/SQE will attempt to restart.
+If SQ/SQE has been stopped as a result of dry running, it will start automatically after 5 minutes.
+If SQ/SQE is restarted and the well has not recovered, SQ/SQE will stop after 30 seconds.
+• • 11.5 Resetting SQ/SQE.
+Switch off the electricity supply for 1 minute.
+Note: All MS 3 motors are factory-set to detect dry.
+running conditions.
+Check that the combination of pump and motor corresponds to the data on page 35.
+Note: All MSE 3 motors are factory-set to detect dry.
+running conditions.
+However, if the maximum pump speed setting is changed, the dry-running stop value must also be changed.
+Please refer to either the CU 300 or CU 301 I&O for instructions on this procedure.
+11.8 Maintenance and service.
+The pumps are normally maintenance-free.
+Deposits and wear may occur.
+For that purpose, service kits and service tools are available from Grundfos.
+The pumps can be serviced at a Grundfos service center.
+
+Assembly of pump and motor.
+To assemble pump end and motor, proceed as follows: 1.
+Place the motor horizontally in a vice and tighten it, see fig.
+
+
+Pull SQ/SQE shaft out to the position shown in fig.
+
+
+10 Pump shaft position.
+
+Grease the motor shaft end with the grease supplied with the motor.
+
+Screw SQ/SQE end on the motor (55 Nm).
+Note: SQ/SQE shaft must engage with the.
+motor shaft.
+A spanner may be used on the clamping faces of SQ/SQE end, see fig.
+
+
+Fit the cable guard as described in section 7.
+
+11 Pump in vice.
+L = 4.7".
+0.5 hp: 0.75 hp: L = 4.0".
+L = 2.6".
+1.0 hp: 1.5 hp: L = 2.6".
+When pump end and motor have been assembled correctly, there must be no clearance between pump end and motor.
+To disassemble, reverse procedure.
+
+9 Fault.
+
+SQ/SQE does not run.
+Cause.
+a) The fuses are blown.
+
+SQ/SQE runs but gives no water.
+
+SQ/SQE runs at reduced capacity.
+
+Frequent starts and stops.
+10 Remedy.
+Replace the blown fuses.
+If the new fuses blow too, check the electrical installation and the drop cable.
+b) The GFI circuit breaker has tripped.
+Reset the circuit breaker.
+c) No electricity supply.
+d) The motor protection has cut off the Contact the electricity provider.
+Check for motor/pump blockage.
+electricity supply due to overload.
+e) The drop cable is defective.
+f) Overvoltage has occurred.
+a) The discharge valve is closed.
+b) No water or too low water level in well.
+c) The check valve is stuck in its closed position.
+d) The suction strainer is closed.
+e) SQ/SQE is defective.
+a) The drawdown is larger than anticipated.
+b) The valves in the discharge pipe are partly closed/blocked.
+c) The discharge pipe is partly choked by impurities (iron bacteria).
+d) The check valve of SQ/SQE is blocked.
+e) SQ/SQE and the riser pipe are partly choked by impurities (iron bacteria).
+f) SQ/SQE is defective.
+g) Hole in discharge pipe.
+h) The riser pipe is defective.
+i) Undervoltage has occurred.
+a) The differential of the pressure switch between the start and stop pressures is too small.
+b) The water level electrodes or level switches in the reservoir have not been installed correctly.
+c) The check valve is leaking or stuck half-open.
+d) The supply voltage is unstable.
+e) The motor temperature is too high.
+Check the water temperature.
+Repair or replace the pump/cable.
+Check the electricity supply.
+Open the valve.
+Increase the installation depth of the pump, throttle SQ/SQE or replace it with a smaller capacity model.
+Pull SQ/SQE and clean or replace the valve.
+Pull SQ/SQE and clean the strainer.
+Repair or replace SQ/SQE.
+Increase the installation depth of the pump, throttle SQ/SQE or replace it with a smaller capacity model.
+Check and clean or replace the valves as necessary.
+Clean or replace the discharge pipe.
+Pull SQ/SQE and clean or replace the valve.
+Pull SQ/SQE.
+Check and clean or replace the pump, if necessary.
+Clean the pipes.
+Repair or replace SQ/SQE.
+Check and repair the piping.
+Replace the riser pipe.
+Check the electricity supply.
+Increase the differential.
+However, the stop pressure must not exceed the operating pressure of the pressure tank and the start pressure should be high enough to ensure sufficient water supply.
+Adjust the intervals of the electrodes/level switches to ensure suitable time between the cutting-in and cutting-out of SQ/SQE.
+See installation and operating instructions for the automatic devices used.
+If the intervals between start/stop cannot be changed via the automatics, SQ/SQE capacity may be reduced by throttling the discharge valve.
+Pull SQ/SQE and clean or replace the check valve.
+Check the electricity supply.
+Note: The use of the following instruments is not.
+allowed during troubleshooting.
+Insulation test Resistance test High-voltage test 14.
+Checking of motor and cable.
+8 9 0 1.
+2 7 0 2.
+1 0 T.
+
+Supply voltage L N PE 2.
+Current consumption 15.
+Environment.
+During handling, operation, storage and transport, all environment regulations dealing with the handling of hazardous materials must be observed.
+WARNING:.
+When SQ/SQE is taken out of operation, it must be ensured that no hazardous material is left in SQ/SQE and in the riser pipe, which can be injurious to persons and the environment.
+2 9 0 5.
+1 7 3 1.
+0 0 T.
+2 8 0 5.
+2 7 3 1.
+0 0 T.
+Measure the voltage L1 (RMS) between phase and L2.
+Connect the voltmeter to the terminals at the connections.
+Measure the current (RMS) while SQ/SQE is operating at a constant discharge head (if possible, at the capacity where the motor is most heavily loaded).
+For maximum current, see motor nameplate.
+The voltage should, when the motor is loaded, be within the range specified in section 4.
+Electrical connection.
+Large variations in supply voltage indicate poor electricity supply, and SQ/SQE should be stopped until the problem has been corrected.
+If the current exceeds the full-load current, there are the following possible faults: • Poor connection in the leads, possibly in the cable joint.
+• Too low supply voltage, see item 1.
+11 Supply voltage.
+1 x 100-115 V, 50/60 Hz, PE.
+1 x 200-240 V, 50/60 Hz, PE.
+Operation via generator.
+Recommended generator output must be equal to Starting current.
+The motor starting current is equal to the highest value stated on the motor nameplate.
+Starting.
+Soft starting.
+Run-up time.
+Maximum 2 seconds.
+Power factor.
+PF = 1.
+Service factor.
+0.5 hp: 0.75 hp: 2.05 at 240 V.
+2.25 at 240 V.
+1.0 hp: 1.5 hp: 1.65 at 240 V.
+Motor cable.
+3-Wire, RHW-2, 14 AWG XLPE.
+Length: 5 feet.
+Motor liquid.
+Type SML 2 or SML 3.
+pH values.
+5 to 9.
+Liquid temperature.
+The temperature of the pumped liquid must not exceed 86°F.
+Discharge port.
+5 SQ/SQE: 10-15 SQ/SQE: 1¼" NPT.
+22-30 SQ/SQE: 1½" NPT.
+Storage conditions.
+Minimum ambient temperature: 4°F.
+Maximum ambient temperature: 140°F.
+Freeze protection Note: The motor must not be stored without being.
+filled with motor liquid.
+If SQ/SQE has to be stored after use, it must be stored on a frost-free location or it must be ensured that the motor liquid is frost-proof.
+Motor dimensions.
+0.5 hp: 20.9" length x 2.68" diameter.
+0.75 hp: 20.9" length x 2.68" diameter.
+1.0 hp: 22.3" length x 2.68" diameter.
+22.3" length x 2.68" diameter.
+1.5 hp: 1" NPT.
+Subject to alterations.
+12 1.85 at 115 V/240 V.
+Motor weights.
+0.5 hp: 6.0 lbs.
+0.75 hp: 7.1 lbs.
+1.0 hp: 8.2 lbs.
+1.5 hp: 8.2 lbs.
+Pump end dimensions.
+Pump diameter: 2.68".
+Pump diameter, incl.
+cable guard: 2.91".
+Pump end dimensions (min.
+and max.).
+5 SQ/SQE: 10.6" to 18.0".
+10 SQ/SQE: 10.6" to 14.8".
+15 SQ/SQE: 10.6" to 16.9".
+22 SQ/SQE: 10.6" to 16.9".
+30 SQ/SQE: 10.6" to 13.7".
+Pump end weights (min.
+and max.).
+All SQ/SQE models: 2.2 lbs to 3.5 lbs.
+Well diameter.
+Minimum 3".
+Installation depth.
+Maximum 500 feet below static water level.
+
+Disposal.
+This product or parts of it must be disposed of in an environmentally sound way: 1.
+Use the public or private waste collection service.
+
+If this is not possible, contact the nearest Grundfos company or service workshop.
+Pump type.
+5 SQ/SQE-90 5 SQ/SQE-140 5 SQ/SQE-180 5 SQ/SQE-230 5 SQ/SQE-270 5 SQ/SQE-320 5 SQ/SQE-360 5 SQ/SQE-410 5 SQ/SQE-450 10 SQ/SQE-110 10 SQ/SQE-160 10 SQ/SQE-200 10 SQ/SQE-240 10 SQ/SQE-290 10 SQ/SQE-330 15 SQ/SQE-70 15 SQ/SQE-110 15 SQ/SQE-150 15 SQ/SQE-180 15 SQ/SQE-220 15 SQ/SQE-250 15 SQ/SQE-290 22 SQ/SQE-40 22 SQ/SQE-80 22 SQ/SQE-120 22 SQ/SQE-160 22 SQ/SQE-190 22 SQ/SQE-220 30 SQ/SQE-40 30 SQ/SQE-90 30 SQ/SQE-130 Accessories.
+The accessories listed below are not provided with the unit.
+Contact your authorized dealer to purchase the following accessories.
+240 240 240 240 240 Flow range [gpm].
+1.5-7.5 1.5-7.5 1.5-7.5 1.5-7.5 1.5-7.5 1.5-7.5 1.5-7.5 1.5-7.5 1.5-7.5 3-15 3-15 3-15 3-15 3-15 3-15 4-20 4-20 4-20 4-20 4-20 4-20 4-20 7-33 7-33 7-33 7-33 7-33 7-33 8-42 8-42 8-42 Min.
+well dia.
+
+3" 3" 3" 3" 3" 3" 3" 3" 3" 3" 3" 3" 3" 3" 3" 3" 3" 3" 3" 3" 3" 3" 3" 3" 3" 3" 3" 3" 3" 3" 3" Disch.
+
+1" NPT 1" NPT 1" NPT 1" NPT 1" NPT 1" NPT 1" NPT 1" NPT 1" NPT 1¼" NPT 1¼" NPT 1¼" NPT 1¼" NPT 1¼" NPT 1¼" NPT 1¼" NPT 1¼" NPT 1¼" NPT 1¼" NPT 1¼" NPT 1¼" NPT 1¼" NPT 1½" NPT 1½" NPT 1½" NPT 1½" NPT 1½" NPT 1½" NPT 1½" NPT 1½" NPT 1½" NPT Product.
+CU 300 CU 301 Flow sleeve Grease Flow switch Pressure transmitter [hp].
+0.5 0.5 0.5 0.75 0.75 0.75 1.0 1.0 1.5 0.5 0.5 0.75 0.75 1.0 1.5 0.5 0.5 0.75 0.75 1.0 1.0 1.5 0.5 0.5 0.75 0.75 1.0 1.5 0.5 0.75 1.0 Part number.
+96422776 96436754 96037505 96037562 96022967 96026030 Voltage [V].
+240/115 240/115 240/115 240/115 240/115 240/115 240 240 240 240 240 240 240/115 240/115 240 240 240 240 240/115 240/115 240 240 240 240 240 240 35 U.S.A.
+
+GRUNDFOS Pumps Corporation 17100 West 118th Terrace Olathe, Kansas 66061 Phone: +1-913-227-3400 Telefax: +1-913-227-3500 Canada.
+GRUNDFOS Canada Inc.
+2941 Brighton Road Oakville, Ontario L6H 6C9 Phone: +1-905 829 9533 Telefax: +1-905 829 9512 Bombas GRUNDFOS de Mexico S.A.
+de C.V.
+Boulevard TLC No.
+15 Parque Industrial Stiva Aeropuerto Apodaca, N.L.C.P.
+66600 Phone: +52-81-8144 4000 Telefax: +52-81-8144 4010 Addresses revised 22.09.2005.
+www.grundfos.com 61.
+Being responsible is our foundation Thinking ahead makes it possible Innovation is the essence 
+
