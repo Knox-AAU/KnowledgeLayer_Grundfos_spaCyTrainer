@@ -1,14 +1,14 @@
 CONTENTS.
 
-1.1 2.
-Preinstallation 2.1 Well preparation 2.2 Make sure you have the right pump 2.3 2.4 2.5 Motor preparation 2.6 Refilling of motor liquid Installation positions 3.
-Positional requirements 3.1 4.
+
+Preinstallation 2.1 Well preparation 2.2 Make sure you have the right pump 2...5 Motor preparation 2.6 Refilling of motor liquid Installation positions 3.
+Positional requirements 3..
 Electrical connection 4.1 General 4.2 Motor protection 4.3 Connection of motor 5.
 
 
 
 
-9.1 10.
+
 Generator operation 11.
 11.1 Motor cooling and other considerations 11.2 Impurities in the water 11.3 Minimum flow rate 11.4 Built-in functions 11.5 Resetting SQ/SQE 11.6 MS 3 motors 11.7 MSE 3 motors 11.8 Maintenance and service 12.
 Assembly of pump and motor 13.
@@ -22,7 +22,7 @@ Installation and operation must comply with local regulations and accepted codes
 General description.
 The SQ/SQE is a 3 inch diameter deep well submersible pump mainly designed for the pumping of raw water in domestic water supply.
 This manual is designed to assist in the proper setup, installation and operation of these pumps.
-4 General description Applications Pumped liquid requirements Liquid temperatures/cooling Cable sizing Splicing the cable Fitting the cable guard Piping Installing SQ/SQE Installation depth Page 4 4 4 4 4 4 4 5 5 5 5 6 6 6 6 7 7 7 7 8 8 8 8 8 9 9 9 9 9 9 9 9 10 11 11 11 12 12 1.1 Applications.
+4 General description Applications Pumped liquid requirements Liquid temperatures/cooling Cable sizing Splicing the cable Fitting the cable guard Piping Installing SQ/SQE Installation depth Page 1.1 Applications.
 Typical applications: • residential housing • small waterworks • pressure boosting • • WARNING: SQ/SQE has not been investigated for use in swimming pool or marine areas.
 liquid transfer in tanks irrigation systems.
 2.1 Well preparation.
@@ -45,19 +45,15 @@ Note: The well diameter must be at least 3 inches.
 If there is a risk that the motor will be covered with sediment, it is recommended SQ/SQE be placed in a flow sleeve.
 The motor should always be installed above the well screen.
 Injecting motor liquid 3.1 Positional requirements.
-SQ/SQE is suitable for vertical as well as horizontal installation, however, SQ/SQE shaft must never fall below the horizontal plane, see fig.
+SQ/SQE is suitable for vertical as well as horizontal installation, however, SQ/SQE shaft must never fall below the horizontal plane, see fig. 3.
+If SQ/SQE is to be installed horizontally, e.g. in a tank, and there is a risk that SQ/SQE might be covered by mud, it must be installed in a flow sleeve.
+Fig. 2.
 
-If SQ/SQE is to be installed horizontally, e.g.
-in a tank, and there is a risk that SQ/SQE might be covered by mud, it must be installed in a flow sleeve.
 
+Fig. 3 Pump position.
+Allowed Not allowed.
 
-7 9 3 4.
-5 7 3 1.
-1 0 Fig.
-3 Pump position.
-Allowed Not allowed 4 0 5 3.
-6 0 6 9.
-2 0 2.5 Motor preparation.
+2.5 Motor preparation.
 Grundfos MS 3 and MSE 3 submersible motors have water-lubricated slide bearings.
 No additional lubrication is required.
 The submersible motors are factory-filled with a special Grundfos motor liquid, type SML 2 or SML 3, which will protect the motor liquid down to 4°F (–20°C) and prevent the growth of bacteria.
@@ -71,8 +67,7 @@ Place the motor in vertical position with an inclination of approximately 10°.
 
 Remove the filling plug using a screwdriver or a 4.
 similar tool.
-Inject motor liquid into the motor with a filling syringe or similar tool, see fig.
-
+Inject motor liquid into the motor with a filling syringe or similar tool, see fig. 2.
 
 To allow possible air to escape, move the motor from side to side and turn the shaft.
 
@@ -83,11 +78,10 @@ Assemble pump end and motor.
 Fit the cable guard.
 SQ/SQE is now ready for installation.
 
-Liquid temperature, max.
-86°F Well diameter Pump diameter 7 9 2 1.
-8 1 5 0.
-1 0 10.
-5 4.1 General.
+Liquid temperature, max. 86°F Well diameter Pump diameter.
+
+
+.1 General.
 The electrical connection should be carried out by an authorized electrician in accordance with local regulations.
 WARNING:.
 Before starting work on the pump, make sure that the electricity supply has been switched off and that it cannot be accidentally switched on.
@@ -109,25 +103,23 @@ The SQE pumps can be connected to a CU 300 or CU 301 control box.
 The motor has built-in automatic thermal overload protection and requires no additional motor protection.
 4.3 Connection of motor.
 The motor can be connected directly to the main circuit breaker.
-Start/stop of SQ/SQE will typically be done via a pressure switch, see figs.
-4 and 5.
+Start/stop of SQ/SQE will typically be done via a pressure switch, see figs. 4 and 5.
 Note: The pressure switch must be rated for the.
 maximum amps of the specific pump.
-6 Fig.
-5 Wiring diagram for single-phase Grundfos.
-motors (100-115 V) Fig.
-4 Wiring diagram for 2-wire Grundfos.
+6 Fig. 5 Wiring diagram for single-phase Grundfos.
+motors (100-115 V) Fig. 4 Wiring diagram for 2-wire Grundfos.
 motors (200-240 V) Quick disconnection WARNING:.
 Reduced risk of electric shock during operation of SQ/SQE requires the provision of acceptable grounding.
 If the means of connection to the supply connected box is other than grounded metal conduit, ground SQ/SQE back to the service by connecting a copper conductor, at least the size of the circuit conductors supplying SQ/SQE.
 Quick disconnection L1 L2 G Pump and motor L N G Pump and motor Pressure switch Black Black Green Pressure switch Black White or grey Green 5.
 Cable sizing.
 Single-phase 60 Hz maximum cable length motor service to entrance: Motor rating Maximum lengths of copper wire in feet (9% voltage drop) Volts.
-115 230 230 230 230 hp.
-0.5 0.5 0.75 1.0 1.5 amps 14 AWG 12 AWG 10 AWG 8 AWG 6 AWG.
-12 5.2 8.4 11.2 12 140 640 400 300 280 220 1000 620 460 430 360 1660 1030 770 720 550 2250 1580 1190 1110 880 4060 2510 1890 1760 2 AWG.
+11 hp.
+0...7..5 amps 14 AWG 12 AWG 10 AWG 8 AWG 6 AWG.
+
+2 AWG.
 2260 – – 4 AWG.
-1390 – 3970 2980 2780 4850 4530 Note: The values apply to 230 V, 60 Hz, and conform to the requirements stated in the National Electrical.
+1390 – 397 Note: The values apply to 230 V, 60 Hz, and conform to the requirements stated in the National Electrical.
 Code Book.
 
 Splicing the cable.
@@ -140,29 +132,22 @@ To fit the cable guard, proceed as follows: 1.
 Make sure that the motor lead lies flat in the cable guard.
 
 Place the cable guard in the groove in the cable plug.
-The two flaps must engage with the upper edge of SQ/SQE sleeve, see fig.
-
-
-7 Fitting the cable guard to SQ/SQE.
+The two flaps must engage with the upper edge of SQ/SQE sleeve, see fig. 6.
+Fig. 7 Fitting the cable guard to SQ/SQE.
 suction strainer 8.
 Piping.
-• SQ/SQE should only be gripped by the two flats at the top of the pump, see fig.
-
+• SQ/SQE should only be gripped by the two flats at the top of the pump, see fig. 8.
 • SQ/SQE can be installed vertically or horizontally.
 During operation, SQ/SQE must always be completely submerged in water.
 • When plastic pipe is used, a stainless-steel safety wire is recommended for lowering and lifting SQ/SQE.
-Fasten the wire to the eyelet on the pump, see fig.
-
+Fasten the wire to the eyelet on the pump, see fig. 9.
 • The threaded joints must be well cut and fit together tightly to ensure that they do not work loose.
+Fig. 6 Placing the cable guard.
 
-6 Placing the cable guard.
+Fasten the cable guard to SQ/SQE suction strainer with the two self-tapping screws supplied, see fig. 7.
 
-Fasten the cable guard to SQ/SQE suction strainer with the two self-tapping screws supplied, see fig.
-
-
-7 9.1 Installation depth.
-The dynamic water level should always be above the pump, see fig.
-
+.1 Installation depth.
+The dynamic water level should always be above the pump, see fig. 9.
 A = Dynamic water level B = Static water level C = Minimum 3 inch well diameter D = Drawdown E = Installation depth below static water level.
 Maximum 500 feet.
 Installation depth Procedure.
@@ -205,10 +190,9 @@ The generator must be sized 50% above the P1.
 (input power) values of SQ/SQE.
 See the following table.
 Motor [hp].
-0.5 0.75 1.0 1.5 generator size Min.
+0..7..5 generator size Min. [W].
+120 Recommended generator output [W].
 
-1200 1900 2600 2800 Recommended generator output [W].
-1500 2500 3200 3500 11.
 Starting SQ/SQE for the first time.
 When SQ/SQE has been connected correctly, SQ/SQE should be started with the discharge valve closed approximately one third.
 Due to the soft start feature, SQ/SQE takes approximately 2 seconds to develop full pressure.
@@ -255,25 +239,20 @@ The pumps can be serviced at a Grundfos service center.
 
 Assembly of pump and motor.
 To assemble pump end and motor, proceed as follows: 1.
-Place the motor horizontally in a vice and tighten it, see fig.
+Place the motor horizontally in a vice and tighten it, see fig. 11.
 
-
-Pull SQ/SQE shaft out to the position shown in fig.
-
-
-10 Pump shaft position.
+Pull SQ/SQE shaft out to the position shown in fig. 10.
+Fig. 10 Pump shaft position.
 
 Grease the motor shaft end with the grease supplied with the motor.
 
 Screw SQ/SQE end on the motor (55 Nm).
 Note: SQ/SQE shaft must engage with the.
 motor shaft.
-A spanner may be used on the clamping faces of SQ/SQE end, see fig.
-
+A spanner may be used on the clamping faces of SQ/SQE end, see fig. 11.
 
 Fit the cable guard as described in section 7.
-
-11 Pump in vice.
+Fig. 11 Pump in vice.
 L = 4.7".
 0.5 hp: 0.75 hp: L = 4.0".
 L = 2.6".
@@ -352,9 +331,9 @@ Note: The use of the following instruments is not.
 allowed during troubleshooting.
 Insulation test Resistance test High-voltage test 14.
 Checking of motor and cable.
-8 9 0 1.
-2 7 0 2.
-1 0 T.
+
+
+
 
 Supply voltage L N PE 2.
 Current consumption 15.
@@ -362,12 +341,12 @@ Environment.
 During handling, operation, storage and transport, all environment regulations dealing with the handling of hazardous materials must be observed.
 WARNING:.
 When SQ/SQE is taken out of operation, it must be ensured that no hazardous material is left in SQ/SQE and in the riser pipe, which can be injurious to persons and the environment.
-2 9 0 5.
-1 7 3 1.
-0 0 T.
-2 8 0 5.
-2 7 3 1.
-0 0 T.
+
+
+
+
+
+
 Measure the voltage L1 (RMS) between phase and L2.
 Connect the voltmeter to the terminals at the connections.
 Measure the current (RMS) while SQ/SQE is operating at a constant discharge head (if possible, at the capacity where the motor is most heavily loaded).
@@ -418,7 +397,7 @@ Motor dimensions.
 22.3" length x 2.68" diameter.
 1.5 hp: 1" NPT.
 Subject to alterations.
-12 1.85 at 115 V/240 V.
+1.85 at 115 V/240 V.
 Motor weights.
 0.5 hp: 6.0 lbs.
 0.75 hp: 7.1 lbs.
@@ -428,15 +407,13 @@ Pump end dimensions.
 Pump diameter: 2.68".
 Pump diameter, incl.
 cable guard: 2.91".
-Pump end dimensions (min.
-and max.).
+Pump end dimensions (min. and max.).
 5 SQ/SQE: 10.6" to 18.0".
 10 SQ/SQE: 10.6" to 14.8".
 15 SQ/SQE: 10.6" to 16.9".
 22 SQ/SQE: 10.6" to 16.9".
 30 SQ/SQE: 10.6" to 13.7".
-Pump end weights (min.
-and max.).
+Pump end weights (min. and max.).
 All SQ/SQE models: 2.2 lbs to 3.5 lbs.
 Well diameter.
 Minimum 3".
@@ -449,28 +426,27 @@ Use the public or private waste collection service.
 
 If this is not possible, contact the nearest Grundfos company or service workshop.
 Pump type.
-5 SQ/SQE-90 5 SQ/SQE-140 5 SQ/SQE-180 5 SQ/SQE-230 5 SQ/SQE-270 5 SQ/SQE-320 5 SQ/SQE-360 5 SQ/SQE-410 5 SQ/SQE-450 10 SQ/SQE-110 10 SQ/SQE-160 10 SQ/SQE-200 10 SQ/SQE-240 10 SQ/SQE-290 10 SQ/SQE-330 15 SQ/SQE-70 15 SQ/SQE-110 15 SQ/SQE-150 15 SQ/SQE-180 15 SQ/SQE-220 15 SQ/SQE-250 15 SQ/SQE-290 22 SQ/SQE-40 22 SQ/SQE-80 22 SQ/SQE-120 22 SQ/SQE-160 22 SQ/SQE-190 22 SQ/SQE-220 30 SQ/SQE-40 30 SQ/SQE-90 30 SQ/SQE-130 Accessories.
+5 SQ/SQE-9SQ/SQE-14SQ/SQE-18SQ/SQE-23SQ/SQE-27SQ/SQE-32SQ/SQE-36SQ/SQE-41SQ/SQE-45SQ/SQE-11SQ/SQE-16SQ/SQE-20SQ/SQE-24SQ/SQE-29SQ/SQE-33SQ/SQE-7SQ/SQE-11SQ/SQE-15SQ/SQE-18SQ/SQE-22SQ/SQE-25SQ/SQE-29SQ/SQE-4SQ/SQE-8SQ/SQE-12SQ/SQE-16SQ/SQE-19SQ/SQE-22SQ/SQE-4SQ/SQE-9SQ/SQE-130 Accessories.
 The accessories listed below are not provided with the unit.
 Contact your authorized dealer to purchase the following accessories.
-240 240 240 240 240 Flow range [gpm].
-1.5-7.5 1.5-7.5 1.5-7.5 1.5-7.5 1.5-7.5 1.5-7.5 1.5-7.5 1.5-7.5 1.5-7.5 3-15 3-15 3-15 3-15 3-15 3-15 4-20 4-20 4-20 4-20 4-20 4-20 4-20 7-33 7-33 7-33 7-33 7-33 7-33 8-42 8-42 8-42 Min.
-well dia.
+24 Flow range [gpm].
+1.5-7..5-7..5-7..5-7..5-7..5-7..5-7..5-7..5-7.-1-1-1-1-1-1-2-2-2-2-2-2-2-3-3-3-3-3-3-4-4-42 Min. well dia.
 
 3" 3" 3" 3" 3" 3" 3" 3" 3" 3" 3" 3" 3" 3" 3" 3" 3" 3" 3" 3" 3" 3" 3" 3" 3" 3" 3" 3" 3" 3" 3" Disch.
 
 1" NPT 1" NPT 1" NPT 1" NPT 1" NPT 1" NPT 1" NPT 1" NPT 1" NPT 1¼" NPT 1¼" NPT 1¼" NPT 1¼" NPT 1¼" NPT 1¼" NPT 1¼" NPT 1¼" NPT 1¼" NPT 1¼" NPT 1¼" NPT 1¼" NPT 1¼" NPT 1½" NPT 1½" NPT 1½" NPT 1½" NPT 1½" NPT 1½" NPT 1½" NPT 1½" NPT 1½" NPT Product.
 CU 300 CU 301 Flow sleeve Grease Flow switch Pressure transmitter [hp].
-0.5 0.5 0.5 0.75 0.75 0.75 1.0 1.0 1.5 0.5 0.5 0.75 0.75 1.0 1.5 0.5 0.5 0.75 0.75 1.0 1.0 1.5 0.5 0.5 0.75 0.75 1.0 1.5 0.5 0.75 1.0 Part number.
-96422776 96436754 96037505 96037562 96022967 96026030 Voltage [V].
-240/115 240/115 240/115 240/115 240/115 240/115 240 240 240 240 240 240 240/115 240/115 240 240 240 240 240/115 240/115 240 240 240 240 240 240 35 U.S.A.
+0....7.7.7......7.7.....7.7......7.7....7.0 Part number.
+9642277 Voltage [V].
+240/11/11/11/11/11/11/11/11/11/11 U.S.A.
 
 GRUNDFOS Pumps Corporation 17100 West 118th Terrace Olathe, Kansas 66061 Phone: +1-913-227-3400 Telefax: +1-913-227-3500 Canada.
 GRUNDFOS Canada Inc.
-2941 Brighton Road Oakville, Ontario L6H 6C9 Phone: +1-905 829 9533 Telefax: +1-905 829 9512 Bombas GRUNDFOS de Mexico S.A.
+2941 Brighton Road Oakville, Ontario L6H 6C9 Phone: +1-90Telefax: +1-90 Bombas GRUNDFOS de Mexico S.A.
 de C.V.
 Boulevard TLC No.
 15 Parque Industrial Stiva Aeropuerto Apodaca, N.L.C.P.
-66600 Phone: +52-81-8144 4000 Telefax: +52-81-8144 4010 Addresses revised 22.09.2005.
+66600 Phone: +52-81-814Telefax: +52-81-814Addresses revised 22.09.2005.
 www.grundfos.com 61.
 Being responsible is our foundation Thinking ahead makes it possible Innovation is the essence 
 
